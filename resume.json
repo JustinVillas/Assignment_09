@@ -4,7 +4,11 @@
             "Name": "Justin Lawrence DL. Villas",
             "Age": "18",
             "Phone": "09123456789",
-            "Email": "justinlawrencedlvillas@gmail.com"
+            "Email": "justinlawrencedlvillas@gmail.com",
+            "Birthay": "March 11,2003",
+            "Address": "1045 La Avenida St, Mountain View, Estados Unidos",
+            "Civil Status": "Single",
+            "Hobbies": "Reading Manga, Cycling, Watching Anime"
         }
     ],
     "Education_Atainment": [
